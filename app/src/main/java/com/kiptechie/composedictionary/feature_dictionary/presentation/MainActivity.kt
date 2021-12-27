@@ -22,6 +22,7 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         setContent {
             ComposeDictionaryTheme {
+
                 val viewModel: WordInfoViewModel = hiltViewModel()
                 val state = viewModel.state.value
                 val scaffoldState = rememberScaffoldState()
