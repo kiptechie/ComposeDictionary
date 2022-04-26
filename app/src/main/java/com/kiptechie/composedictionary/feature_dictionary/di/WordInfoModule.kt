@@ -48,6 +48,7 @@ object WordInfoModule {
             "compose_dictionary_db"
         )
             .addTypeConverter(Converters(GsonParser(Gson())))
+            .fallbackToDestructiveMigration()
             .build()
     }
 
