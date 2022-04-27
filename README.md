@@ -1,5 +1,9 @@
 # ComposeDictionary
-Clean architecture dictionary app fetching remote data with local caching
+Jetpack compose clean architecture dictionary android app fetching remote data with local caching
+
+## Features
+* Search any dictionary word and provide meaning and other information about the word
+* Save searched words locally for caching and offline use
 
 ## Video of working app
 <img src="./pics/compose_dictionary.gif" width="360" height="720" />
@@ -16,10 +20,8 @@ This project is mantained by:
 
 
 ## Contributing
-
 1. Fork it
 2. Create your feature branch (git checkout -b my-new-feature)
 3. Commit your changes (git commit -m 'Add some feature')
-4. Run the linter (ruby lint.rb').
-5. Push your branch (git push origin my-new-feature)
-6. Create a new Pull Request
+4. Push your branch (git push origin my-new-feature)
+5. Create a new Pull Request
