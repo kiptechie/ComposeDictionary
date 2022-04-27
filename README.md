@@ -5,7 +5,7 @@ Jetpack compose clean architecture dictionary android app fetching remote data w
 * Search any dictionary word and provide meaning and other information about the word
 * Save searched words locally for caching and offline use
 
-## Video of working app
+## GIF of working app
 <img src="./pics/compose_dictionary.gif" width="360" height="720" />
 
 ## Installation
