@@ -1,5 +1,6 @@
 package com.kiptechie.composedictionary.feature_dictionary.data.local
 
+import androidx.room.AutoMigration
 import androidx.room.Database
 import androidx.room.RoomDatabase
 import androidx.room.TypeConverters
@@ -7,7 +8,7 @@ import com.kiptechie.composedictionary.feature_dictionary.data.local.entity.Word
 
 @Database(
     entities = [WordInfoEntity::class],
-    version = 1
+    version = 4,
 )
 @TypeConverters(Converters::class)
 abstract class WordInfoDatabase : RoomDatabase() {
