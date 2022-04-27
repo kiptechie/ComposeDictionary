@@ -23,6 +23,8 @@ This project is mantained by:
 4. Run the linter (ruby lint.rb').
 5. Push your branch (git push origin my-new-feature)
 6. Create a new Pull Request
+
+
    © 2022 GitHub, Inc.
    Terms
    Privacy
