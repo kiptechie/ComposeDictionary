@@ -1,6 +1,9 @@
 # ComposeDictionary
 Clean architecture dictionary app fetching remote data with local caching
 
+## Video of working app
+<img src="https://raw.githubusercontent.com/kiptechie/ComposeDictionary/development/pics/compose_dictionary.gif" width="360" height="720" />
+
 ## Installation
 Clone this repository and import into **Android Studio**
 ```bash
