@@ -2,7 +2,7 @@
 Clean architecture dictionary app fetching remote data with local caching
 
 ## Video of working app
-<img src="https://raw.githubusercontent.com/kiptechie/ComposeDictionary/development/pics/compose_dictionary.gif" width="360" height="720" />
+<img src="./pics/compose_dictionary.gif" width="360" height="720" />
 
 ## Installation
 Clone this repository and import into **Android Studio**
@@ -23,6 +23,3 @@ This project is mantained by:
 4. Run the linter (ruby lint.rb').
 5. Push your branch (git push origin my-new-feature)
 6. Create a new Pull Request
-   © 2022 GitHub, Inc.
-   Terms
-   Privacy
